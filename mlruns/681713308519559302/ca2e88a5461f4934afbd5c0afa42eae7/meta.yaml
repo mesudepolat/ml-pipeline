@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ca2e88a5461f4934afbd5c0afa42eae7/artifacts
+end_time: 1711633811731
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ca2e88a5461f4934afbd5c0afa42eae7
+run_name: sedate-wasp-76
+run_uuid: ca2e88a5461f4934afbd5c0afa42eae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633799993
+status: 3
+tags: []
+user_id: mesude

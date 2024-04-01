@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/457f8a06a76b44888b87d81b698eb1ce/artifacts
+end_time: 1711617147199
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 457f8a06a76b44888b87d81b698eb1ce
+run_name: resilient-shrew-209
+run_uuid: 457f8a06a76b44888b87d81b698eb1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617145951
+status: 3
+tags: []
+user_id: mesude

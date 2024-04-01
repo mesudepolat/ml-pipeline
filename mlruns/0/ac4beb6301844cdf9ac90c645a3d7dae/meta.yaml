@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ac4beb6301844cdf9ac90c645a3d7dae/artifacts
+end_time: 1711616407758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac4beb6301844cdf9ac90c645a3d7dae
+run_name: overjoyed-rat-447
+run_uuid: ac4beb6301844cdf9ac90c645a3d7dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616406460
+status: 3
+tags: []
+user_id: mesude

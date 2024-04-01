@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d0198a27a93b4718bc5936f4003e7c42/artifacts
+end_time: 1711617082535
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d0198a27a93b4718bc5936f4003e7c42
+run_name: puzzled-rook-413
+run_uuid: d0198a27a93b4718bc5936f4003e7c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617081324
+status: 3
+tags: []
+user_id: mesude

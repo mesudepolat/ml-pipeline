@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1fbb440af3674305b12f024699a9bcbe/artifacts
+end_time: 1711709384716
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1fbb440af3674305b12f024699a9bcbe
+run_name: suave-kite-727
+run_uuid: 1fbb440af3674305b12f024699a9bcbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709365697
+status: 3
+tags: []
+user_id: mesude

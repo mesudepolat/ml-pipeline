@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/346c2be9edaa427fbbd5e51dc01dd92f/artifacts
+end_time: 1711708527959
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 346c2be9edaa427fbbd5e51dc01dd92f
+run_name: brawny-squirrel-331
+run_uuid: 346c2be9edaa427fbbd5e51dc01dd92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711708508971
+status: 3
+tags: []
+user_id: mesude

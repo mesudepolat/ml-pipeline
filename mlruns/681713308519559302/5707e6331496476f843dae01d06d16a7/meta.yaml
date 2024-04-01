@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5707e6331496476f843dae01d06d16a7/artifacts
+end_time: 1711617193873
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5707e6331496476f843dae01d06d16a7
+run_name: crawling-smelt-878
+run_uuid: 5707e6331496476f843dae01d06d16a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617192657
+status: 3
+tags: []
+user_id: mesude

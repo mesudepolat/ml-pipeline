@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a07ffb29b26140b9b51b26403c18c8bb/artifacts
+end_time: 1711617387384
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a07ffb29b26140b9b51b26403c18c8bb
+run_name: skillful-sponge-442
+run_uuid: a07ffb29b26140b9b51b26403c18c8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617386140
+status: 3
+tags: []
+user_id: mesude

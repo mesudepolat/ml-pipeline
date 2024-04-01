@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/baef807d1b754c9d9a5dbcdda9640ec0/artifacts
+end_time: 1711691238735
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: baef807d1b754c9d9a5dbcdda9640ec0
+run_name: calm-yak-166
+run_uuid: baef807d1b754c9d9a5dbcdda9640ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691230210
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/bffd9aee6bf44d93bb7b9c46863c8a32/artifacts
+end_time: 1711616542121
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: bffd9aee6bf44d93bb7b9c46863c8a32
+run_name: dazzling-skink-627
+run_uuid: bffd9aee6bf44d93bb7b9c46863c8a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616540612
+status: 3
+tags: []
+user_id: mesude

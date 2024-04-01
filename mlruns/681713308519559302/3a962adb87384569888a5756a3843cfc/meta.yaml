@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/3a962adb87384569888a5756a3843cfc/artifacts
+end_time: 1711711843928
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 3a962adb87384569888a5756a3843cfc
+run_name: trusting-squirrel-84
+run_uuid: 3a962adb87384569888a5756a3843cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711830301
+status: 3
+tags: []
+user_id: mesude

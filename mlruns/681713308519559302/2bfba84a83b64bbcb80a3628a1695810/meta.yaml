@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2bfba84a83b64bbcb80a3628a1695810/artifacts
+end_time: 1711959348911
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2bfba84a83b64bbcb80a3628a1695810
+run_name: unequaled-boar-824
+run_uuid: 2bfba84a83b64bbcb80a3628a1695810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711959332556
+status: 3
+tags: []
+user_id: mesude

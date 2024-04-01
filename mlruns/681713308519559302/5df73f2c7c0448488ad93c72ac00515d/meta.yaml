@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5df73f2c7c0448488ad93c72ac00515d/artifacts
+end_time: 1711617103396
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5df73f2c7c0448488ad93c72ac00515d
+run_name: colorful-squid-947
+run_uuid: 5df73f2c7c0448488ad93c72ac00515d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617102101
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7a3acadc1e4b43f995b7987dfab29b1c/artifacts
+end_time: 1711617328474
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7a3acadc1e4b43f995b7987dfab29b1c
+run_name: nervous-owl-631
+run_uuid: 7a3acadc1e4b43f995b7987dfab29b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617327233
+status: 3
+tags: []
+user_id: mesude

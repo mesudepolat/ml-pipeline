@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6f212f067dbd4a5b80b2148e5f458118/artifacts
+end_time: 1711617511693
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6f212f067dbd4a5b80b2148e5f458118
+run_name: carefree-perch-544
+run_uuid: 6f212f067dbd4a5b80b2148e5f458118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617510444
+status: 3
+tags: []
+user_id: mesude

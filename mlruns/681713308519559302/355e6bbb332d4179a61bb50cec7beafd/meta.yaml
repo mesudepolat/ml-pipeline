@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/355e6bbb332d4179a61bb50cec7beafd/artifacts
+end_time: 1711616639254
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 355e6bbb332d4179a61bb50cec7beafd
+run_name: nebulous-finch-775
+run_uuid: 355e6bbb332d4179a61bb50cec7beafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616637888
+status: 3
+tags: []
+user_id: mesude

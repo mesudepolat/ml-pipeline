@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/48e3b1c9d5e942be90bc639d506c887d/artifacts
+end_time: 1711713998145
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 48e3b1c9d5e942be90bc639d506c887d
+run_name: merciful-fowl-574
+run_uuid: 48e3b1c9d5e942be90bc639d506c887d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711713983401
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/50a6d09640a942a19ba88fa022992643/artifacts
+end_time: 1711617512934
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 50a6d09640a942a19ba88fa022992643
+run_name: polite-trout-585
+run_uuid: 50a6d09640a942a19ba88fa022992643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617511702
+status: 3
+tags: []
+user_id: mesude

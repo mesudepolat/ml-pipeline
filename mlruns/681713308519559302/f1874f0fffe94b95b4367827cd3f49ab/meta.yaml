@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f1874f0fffe94b95b4367827cd3f49ab/artifacts
+end_time: 1711693998579
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f1874f0fffe94b95b4367827cd3f49ab
+run_name: blushing-pig-196
+run_uuid: f1874f0fffe94b95b4367827cd3f49ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693988686
+status: 3
+tags: []
+user_id: mesude

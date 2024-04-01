@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0794dc926c2c4698b868245f154a30cd/artifacts
+end_time: 1711616944066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0794dc926c2c4698b868245f154a30cd
+run_name: receptive-doe-490
+run_uuid: 0794dc926c2c4698b868245f154a30cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616942377
+status: 3
+tags: []
+user_id: mesude

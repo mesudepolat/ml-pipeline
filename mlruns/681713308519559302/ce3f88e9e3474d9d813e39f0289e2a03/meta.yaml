@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ce3f88e9e3474d9d813e39f0289e2a03/artifacts
+end_time: 1711708751519
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ce3f88e9e3474d9d813e39f0289e2a03
+run_name: youthful-rook-818
+run_uuid: ce3f88e9e3474d9d813e39f0289e2a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711708733393
+status: 3
+tags: []
+user_id: mesude

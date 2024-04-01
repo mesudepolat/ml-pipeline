@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d565e33fb66f4ef590a5d559f56fa64a/artifacts
+end_time: 1711616403625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d565e33fb66f4ef590a5d559f56fa64a
+run_name: skittish-hen-137
+run_uuid: d565e33fb66f4ef590a5d559f56fa64a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616402309
+status: 3
+tags: []
+user_id: mesude

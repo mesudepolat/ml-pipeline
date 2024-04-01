@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/3cf8b8e1afd446f8b8e9bd8c1b6227f5/artifacts
+end_time: 1711547001084
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 3cf8b8e1afd446f8b8e9bd8c1b6227f5
+run_name: overjoyed-crow-586
+run_uuid: 3cf8b8e1afd446f8b8e9bd8c1b6227f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711546999875
+status: 3
+tags: []
+user_id: mesude

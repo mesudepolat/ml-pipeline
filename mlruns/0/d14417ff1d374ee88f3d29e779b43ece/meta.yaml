@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d14417ff1d374ee88f3d29e779b43ece/artifacts
+end_time: 1711702909113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d14417ff1d374ee88f3d29e779b43ece
+run_name: trusting-toad-667
+run_uuid: d14417ff1d374ee88f3d29e779b43ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711702889858
+status: 4
+tags: []
+user_id: mesude

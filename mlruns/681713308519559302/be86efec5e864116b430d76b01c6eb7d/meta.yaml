@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/be86efec5e864116b430d76b01c6eb7d/artifacts
+end_time: 1711634805424
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: be86efec5e864116b430d76b01c6eb7d
+run_name: lyrical-quail-839
+run_uuid: be86efec5e864116b430d76b01c6eb7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711634793601
+status: 3
+tags: []
+user_id: mesude

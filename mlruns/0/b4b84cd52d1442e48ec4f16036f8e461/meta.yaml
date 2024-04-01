@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b4b84cd52d1442e48ec4f16036f8e461/artifacts
+end_time: 1711707781743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4b84cd52d1442e48ec4f16036f8e461
+run_name: bright-asp-122
+run_uuid: b4b84cd52d1442e48ec4f16036f8e461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707764352
+status: 3
+tags: []
+user_id: mesude

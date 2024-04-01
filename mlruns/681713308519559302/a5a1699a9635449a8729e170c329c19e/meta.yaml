@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a5a1699a9635449a8729e170c329c19e/artifacts
+end_time: 1711693291008
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a5a1699a9635449a8729e170c329c19e
+run_name: bald-frog-555
+run_uuid: a5a1699a9635449a8729e170c329c19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693280509
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/61827e77b97b48f49ac0a4ebc1113533/artifacts
+end_time: 1711546911560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61827e77b97b48f49ac0a4ebc1113533
+run_name: stately-mink-172
+run_uuid: 61827e77b97b48f49ac0a4ebc1113533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711546909822
+status: 3
+tags: []
+user_id: mesude

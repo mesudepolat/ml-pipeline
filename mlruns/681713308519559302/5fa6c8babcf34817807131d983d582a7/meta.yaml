@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5fa6c8babcf34817807131d983d582a7/artifacts
+end_time: 1711695085183
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5fa6c8babcf34817807131d983d582a7
+run_name: mysterious-tern-185
+run_uuid: 5fa6c8babcf34817807131d983d582a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695073397
+status: 3
+tags: []
+user_id: mesude

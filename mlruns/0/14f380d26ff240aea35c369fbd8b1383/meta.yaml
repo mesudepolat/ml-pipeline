@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/14f380d26ff240aea35c369fbd8b1383/artifacts
+end_time: 1711527142173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f380d26ff240aea35c369fbd8b1383
+run_name: rogue-ray-888
+run_uuid: 14f380d26ff240aea35c369fbd8b1383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527140974
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ff210a784af84c639c023dd4091106a4/artifacts
+end_time: 1711713931367
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ff210a784af84c639c023dd4091106a4
+run_name: unequaled-moth-335
+run_uuid: ff210a784af84c639c023dd4091106a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711713916730
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1dba7bf414864701aaca64e7cd5dfd8e/artifacts
+end_time: 1711691097023
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1dba7bf414864701aaca64e7cd5dfd8e
+run_name: fun-croc-748
+run_uuid: 1dba7bf414864701aaca64e7cd5dfd8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691087562
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e77681bb6f6e4c4f9386b4d8bf6ccaf9/artifacts
+end_time: 1711707844394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e77681bb6f6e4c4f9386b4d8bf6ccaf9
+run_name: abundant-seal-367
+run_uuid: e77681bb6f6e4c4f9386b4d8bf6ccaf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707830846
+status: 3
+tags: []
+user_id: mesude

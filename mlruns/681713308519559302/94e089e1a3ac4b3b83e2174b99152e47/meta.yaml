@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/94e089e1a3ac4b3b83e2174b99152e47/artifacts
+end_time: 1711617248717
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 94e089e1a3ac4b3b83e2174b99152e47
+run_name: loud-cow-928
+run_uuid: 94e089e1a3ac4b3b83e2174b99152e47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617247476
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/601979fd0fce4b9bbbda248a142a3ce4/artifacts
+end_time: 1711617037499
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 601979fd0fce4b9bbbda248a142a3ce4
+run_name: enthused-frog-96
+run_uuid: 601979fd0fce4b9bbbda248a142a3ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617036286
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/fee4936c74004551997de24ec4bf10ae/artifacts
+end_time: 1711693956576
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: fee4936c74004551997de24ec4bf10ae
+run_name: selective-mouse-723
+run_uuid: fee4936c74004551997de24ec4bf10ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693945622
+status: 3
+tags: []
+user_id: mesude

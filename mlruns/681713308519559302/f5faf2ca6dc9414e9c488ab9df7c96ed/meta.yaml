@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f5faf2ca6dc9414e9c488ab9df7c96ed/artifacts
+end_time: 1711690857936
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f5faf2ca6dc9414e9c488ab9df7c96ed
+run_name: gregarious-koi-625
+run_uuid: f5faf2ca6dc9414e9c488ab9df7c96ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690846292
+status: 3
+tags: []
+user_id: mesude

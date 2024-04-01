@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a031b85537b1476ca7401aed236a2cf2/artifacts
+end_time: 1711713610423
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a031b85537b1476ca7401aed236a2cf2
+run_name: bedecked-fowl-888
+run_uuid: a031b85537b1476ca7401aed236a2cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711713591549
+status: 3
+tags: []
+user_id: mesude

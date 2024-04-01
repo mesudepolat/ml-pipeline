@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/fd00e4eec99243aa8db15cec72e13659/artifacts
+end_time: 1711529859696
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: fd00e4eec99243aa8db15cec72e13659
+run_name: monumental-wren-787
+run_uuid: fd00e4eec99243aa8db15cec72e13659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711529850920
+status: 3
+tags: []
+user_id: mesude

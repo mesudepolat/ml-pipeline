@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/de0fa6485dcf43f3ae0b1e4984497d9e/artifacts
+end_time: 1711711794615
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: de0fa6485dcf43f3ae0b1e4984497d9e
+run_name: kindly-fly-703
+run_uuid: de0fa6485dcf43f3ae0b1e4984497d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711774537
+status: 3
+tags: []
+user_id: mesude

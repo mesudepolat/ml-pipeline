@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/af7ca3e7778d44df856ea5a58a1e89f0/artifacts
+end_time: 1711710687293
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: af7ca3e7778d44df856ea5a58a1e89f0
+run_name: overjoyed-crab-490
+run_uuid: af7ca3e7778d44df856ea5a58a1e89f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710668708
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/09819fd60a6441a486df7b37d4e4ca8a/artifacts
+end_time: 1711616597790
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 09819fd60a6441a486df7b37d4e4ca8a
+run_name: valuable-jay-723
+run_uuid: 09819fd60a6441a486df7b37d4e4ca8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616596540
+status: 3
+tags: []
+user_id: mesude

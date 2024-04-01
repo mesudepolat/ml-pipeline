@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/502d15f7cc354023a85856cb7f651e4c/artifacts
+end_time: 1711546983688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 502d15f7cc354023a85856cb7f651e4c
+run_name: thundering-cat-644
+run_uuid: 502d15f7cc354023a85856cb7f651e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711546982493
+status: 3
+tags: []
+user_id: mesude

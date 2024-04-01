@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/0096991912b54ea9b39c298f8dc8c973/artifacts
+end_time: 1711617065711
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 0096991912b54ea9b39c298f8dc8c973
+run_name: rare-turtle-892
+run_uuid: 0096991912b54ea9b39c298f8dc8c973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617064494
+status: 3
+tags: []
+user_id: mesude

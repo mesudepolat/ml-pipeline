@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1c26a87893f74893b321fe5573f9f87e/artifacts
+end_time: 1711634314182
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1c26a87893f74893b321fe5573f9f87e
+run_name: adventurous-seal-169
+run_uuid: 1c26a87893f74893b321fe5573f9f87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711634305512
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/cf42f5e11cc1485180b2f83a7a31bbe5/artifacts
+end_time: 1711634448755
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: cf42f5e11cc1485180b2f83a7a31bbe5
+run_name: amusing-flea-429
+run_uuid: cf42f5e11cc1485180b2f83a7a31bbe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711634439320
+status: 3
+tags: []
+user_id: mesude

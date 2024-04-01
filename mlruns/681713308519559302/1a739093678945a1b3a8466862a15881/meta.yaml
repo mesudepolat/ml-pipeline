@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1a739093678945a1b3a8466862a15881/artifacts
+end_time: 1711690900141
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1a739093678945a1b3a8466862a15881
+run_name: invincible-fox-232
+run_uuid: 1a739093678945a1b3a8466862a15881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690888293
+status: 3
+tags: []
+user_id: mesude

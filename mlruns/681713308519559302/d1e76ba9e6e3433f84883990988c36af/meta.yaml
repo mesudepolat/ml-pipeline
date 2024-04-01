@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d1e76ba9e6e3433f84883990988c36af/artifacts
+end_time: 1711692975117
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d1e76ba9e6e3433f84883990988c36af
+run_name: secretive-mink-916
+run_uuid: d1e76ba9e6e3433f84883990988c36af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692963471
+status: 3
+tags: []
+user_id: mesude

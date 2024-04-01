@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca2cf95fdc6a40e890353b5878ae1320/artifacts
+end_time: 1711616351856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca2cf95fdc6a40e890353b5878ae1320
+run_name: likeable-auk-174
+run_uuid: ca2cf95fdc6a40e890353b5878ae1320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616350651
+status: 3
+tags: []
+user_id: mesude

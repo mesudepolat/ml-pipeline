@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e22f4a00985848b8948679b7af666aca/artifacts
+end_time: 1711695568615
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e22f4a00985848b8948679b7af666aca
+run_name: nervous-grub-318
+run_uuid: e22f4a00985848b8948679b7af666aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695558356
+status: 3
+tags: []
+user_id: mesude

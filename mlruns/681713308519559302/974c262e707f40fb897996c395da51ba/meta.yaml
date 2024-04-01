@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/974c262e707f40fb897996c395da51ba/artifacts
+end_time: 1711617499962
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 974c262e707f40fb897996c395da51ba
+run_name: salty-bear-842
+run_uuid: 974c262e707f40fb897996c395da51ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617498501
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1c3dc5168c1b4f94bc017cd8224685fb/artifacts
+end_time: 1711693058726
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1c3dc5168c1b4f94bc017cd8224685fb
+run_name: funny-crow-475
+run_uuid: 1c3dc5168c1b4f94bc017cd8224685fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693047939
+status: 3
+tags: []
+user_id: mesude

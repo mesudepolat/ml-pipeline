@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a22a565a7008455d9b64a8f20ed85b3d/artifacts
+end_time: 1711617596500
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a22a565a7008455d9b64a8f20ed85b3d
+run_name: agreeable-grouse-959
+run_uuid: a22a565a7008455d9b64a8f20ed85b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617595251
+status: 3
+tags: []
+user_id: mesude

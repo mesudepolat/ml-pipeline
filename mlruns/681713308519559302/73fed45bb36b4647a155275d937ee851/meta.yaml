@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/73fed45bb36b4647a155275d937ee851/artifacts
+end_time: 1711617310043
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 73fed45bb36b4647a155275d937ee851
+run_name: whimsical-hare-528
+run_uuid: 73fed45bb36b4647a155275d937ee851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617308826
+status: 3
+tags: []
+user_id: mesude

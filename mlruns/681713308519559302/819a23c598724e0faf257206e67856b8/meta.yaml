@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/819a23c598724e0faf257206e67856b8/artifacts
+end_time: 1711711812760
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 819a23c598724e0faf257206e67856b8
+run_name: defiant-whale-764
+run_uuid: 819a23c598724e0faf257206e67856b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711794627
+status: 3
+tags: []
+user_id: mesude

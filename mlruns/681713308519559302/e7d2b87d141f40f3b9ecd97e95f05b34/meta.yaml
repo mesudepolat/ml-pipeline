@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e7d2b87d141f40f3b9ecd97e95f05b34/artifacts
+end_time: 1711692289992
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e7d2b87d141f40f3b9ecd97e95f05b34
+run_name: sedate-grub-356
+run_uuid: e7d2b87d141f40f3b9ecd97e95f05b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692283443
+status: 3
+tags: []
+user_id: mesude

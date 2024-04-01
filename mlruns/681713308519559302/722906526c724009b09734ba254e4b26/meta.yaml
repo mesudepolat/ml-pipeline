@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/722906526c724009b09734ba254e4b26/artifacts
+end_time: 1711616999057
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 722906526c724009b09734ba254e4b26
+run_name: big-quail-727
+run_uuid: 722906526c724009b09734ba254e4b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616997846
+status: 3
+tags: []
+user_id: mesude

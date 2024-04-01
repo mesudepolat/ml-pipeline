@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9973c277c3d64b6b97667c6b78bbaf0d/artifacts
+end_time: 1711617272185
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9973c277c3d64b6b97667c6b78bbaf0d
+run_name: charming-gnat-26
+run_uuid: 9973c277c3d64b6b97667c6b78bbaf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617270930
+status: 3
+tags: []
+user_id: mesude

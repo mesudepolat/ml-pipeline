@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f0bc89a1254f470ea8b53bb64e2a12a7/artifacts
+end_time: 1711711127985
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f0bc89a1254f470ea8b53bb64e2a12a7
+run_name: rogue-wasp-315
+run_uuid: f0bc89a1254f470ea8b53bb64e2a12a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711109441
+status: 3
+tags: []
+user_id: mesude

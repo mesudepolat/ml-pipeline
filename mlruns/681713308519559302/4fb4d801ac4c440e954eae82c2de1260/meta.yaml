@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4fb4d801ac4c440e954eae82c2de1260/artifacts
+end_time: 1711617222682
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4fb4d801ac4c440e954eae82c2de1260
+run_name: polite-kit-801
+run_uuid: 4fb4d801ac4c440e954eae82c2de1260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617221423
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/dbbdad5155a74ec99b7155a1790ecc56/artifacts
+end_time: 1711711710222
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: dbbdad5155a74ec99b7155a1790ecc56
+run_name: bittersweet-fowl-997
+run_uuid: dbbdad5155a74ec99b7155a1790ecc56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711690106
+status: 3
+tags: []
+user_id: mesude

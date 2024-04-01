@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7f0de7862a4e43e9ad3045126d22e931/artifacts
+end_time: 1711714611917
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7f0de7862a4e43e9ad3045126d22e931
+run_name: angry-horse-497
+run_uuid: 7f0de7862a4e43e9ad3045126d22e931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711714590880
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/c411c521b082403ab674fc535cfd4251/artifacts
+end_time: 1711633968963
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: c411c521b082403ab674fc535cfd4251
+run_name: adventurous-tern-875
+run_uuid: c411c521b082403ab674fc535cfd4251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633957977
+status: 3
+tags: []
+user_id: mesude

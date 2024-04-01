@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d4a19469f36c4204b870b29ded07be8c/artifacts
+end_time: 1711617400494
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d4a19469f36c4204b870b29ded07be8c
+run_name: unequaled-fly-653
+run_uuid: d4a19469f36c4204b870b29ded07be8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617399199
+status: 3
+tags: []
+user_id: mesude

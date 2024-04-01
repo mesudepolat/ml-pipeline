@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d629dd4820864221b1cb916801c8bb4f/artifacts
+end_time: 1711710632269
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d629dd4820864221b1cb916801c8bb4f
+run_name: auspicious-mule-41
+run_uuid: d629dd4820864221b1cb916801c8bb4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710612039
+status: 3
+tags: []
+user_id: mesude

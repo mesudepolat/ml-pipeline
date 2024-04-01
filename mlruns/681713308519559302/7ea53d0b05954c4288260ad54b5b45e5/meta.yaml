@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7ea53d0b05954c4288260ad54b5b45e5/artifacts
+end_time: 1711714464988
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7ea53d0b05954c4288260ad54b5b45e5
+run_name: receptive-sheep-825
+run_uuid: 7ea53d0b05954c4288260ad54b5b45e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711714446762
+status: 3
+tags: []
+user_id: mesude

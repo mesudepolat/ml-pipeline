@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6bb767eed44248968e9af8123c467b1b/artifacts
+end_time: 1711690666111
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6bb767eed44248968e9af8123c467b1b
+run_name: defiant-bat-275
+run_uuid: 6bb767eed44248968e9af8123c467b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690659310
+status: 3
+tags: []
+user_id: mesude

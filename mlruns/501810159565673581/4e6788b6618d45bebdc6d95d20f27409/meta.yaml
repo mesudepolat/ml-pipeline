@@ -1,0 +1,15 @@
+artifact_uri: /Users/mesude/cookiecutter-data-science/fmendes/mlruns/501810159565673581/4e6788b6618d45bebdc6d95d20f27409/artifacts
+end_time: 1710414607194
+entry_point_name: ''
+experiment_id: '501810159565673581'
+lifecycle_stage: active
+run_id: 4e6788b6618d45bebdc6d95d20f27409
+run_name: calories_burnt_v0.1.0
+run_uuid: 4e6788b6618d45bebdc6d95d20f27409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710414607030
+status: 4
+tags: []
+user_id: mesude

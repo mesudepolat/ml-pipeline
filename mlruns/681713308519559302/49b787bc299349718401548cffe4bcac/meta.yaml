@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/49b787bc299349718401548cffe4bcac/artifacts
+end_time: 1711695202859
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 49b787bc299349718401548cffe4bcac
+run_name: '91'
+run_uuid: 49b787bc299349718401548cffe4bcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695156820
+status: 3
+tags: []
+user_id: mesude

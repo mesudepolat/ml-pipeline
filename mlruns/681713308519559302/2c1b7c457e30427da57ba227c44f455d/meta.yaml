@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2c1b7c457e30427da57ba227c44f455d/artifacts
+end_time: 1711708902343
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2c1b7c457e30427da57ba227c44f455d
+run_name: abrasive-shrimp-66
+run_uuid: 2c1b7c457e30427da57ba227c44f455d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711708882321
+status: 3
+tags: []
+user_id: mesude

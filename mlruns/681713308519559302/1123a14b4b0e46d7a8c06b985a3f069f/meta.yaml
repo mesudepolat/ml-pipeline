@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1123a14b4b0e46d7a8c06b985a3f069f/artifacts
+end_time: 1711708788601
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1123a14b4b0e46d7a8c06b985a3f069f
+run_name: gifted-crab-793
+run_uuid: 1123a14b4b0e46d7a8c06b985a3f069f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711708768232
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/32db7c6f6f7945939b52f9def1954076/artifacts
+end_time: 1711690387655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32db7c6f6f7945939b52f9def1954076
+run_name: able-seal-828
+run_uuid: 32db7c6f6f7945939b52f9def1954076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690375915
+status: 3
+tags: []
+user_id: mesude

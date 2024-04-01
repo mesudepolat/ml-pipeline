@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a029746463414268a0902ae34c52c9ed/artifacts
+end_time: 1711691569225
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a029746463414268a0902ae34c52c9ed
+run_name: abrasive-rook-288
+run_uuid: a029746463414268a0902ae34c52c9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691557790
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4689321b2a6d49f4b69f2e870ae5d740/artifacts
+end_time: 1711693171139
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4689321b2a6d49f4b69f2e870ae5d740
+run_name: entertaining-sow-767
+run_uuid: 4689321b2a6d49f4b69f2e870ae5d740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693160147
+status: 3
+tags: []
+user_id: mesude

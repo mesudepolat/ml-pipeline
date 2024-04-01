@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7f31c557e09047908282173b27a9f9b4/artifacts
+end_time: 1711691546005
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7f31c557e09047908282173b27a9f9b4
+run_name: youthful-shad-648
+run_uuid: 7f31c557e09047908282173b27a9f9b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691535160
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ea6eae34260c43a7b80c401c6430193f/artifacts
+end_time: 1711710026221
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ea6eae34260c43a7b80c401c6430193f
+run_name: luminous-duck-870
+run_uuid: ea6eae34260c43a7b80c401c6430193f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710010407
+status: 3
+tags: []
+user_id: mesude

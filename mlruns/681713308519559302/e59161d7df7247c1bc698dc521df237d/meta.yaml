@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e59161d7df7247c1bc698dc521df237d/artifacts
+end_time: 1711616728390
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e59161d7df7247c1bc698dc521df237d
+run_name: treasured-colt-378
+run_uuid: e59161d7df7247c1bc698dc521df237d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616727194
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ed86fe95587849ab9ffdd96d57919981/artifacts
+end_time: 1711713775322
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ed86fe95587849ab9ffdd96d57919981
+run_name: likeable-deer-202
+run_uuid: ed86fe95587849ab9ffdd96d57919981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711713755054
+status: 3
+tags: []
+user_id: mesude

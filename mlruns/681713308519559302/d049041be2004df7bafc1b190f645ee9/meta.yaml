@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d049041be2004df7bafc1b190f645ee9/artifacts
+end_time: 1711616451323
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d049041be2004df7bafc1b190f645ee9
+run_name: handsome-skunk-837
+run_uuid: d049041be2004df7bafc1b190f645ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616450132
+status: 3
+tags: []
+user_id: mesude

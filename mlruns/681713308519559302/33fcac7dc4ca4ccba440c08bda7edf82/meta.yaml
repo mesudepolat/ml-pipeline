@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/33fcac7dc4ca4ccba440c08bda7edf82/artifacts
+end_time: 1711693934709
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 33fcac7dc4ca4ccba440c08bda7edf82
+run_name: entertaining-hog-724
+run_uuid: 33fcac7dc4ca4ccba440c08bda7edf82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693925344
+status: 3
+tags: []
+user_id: mesude

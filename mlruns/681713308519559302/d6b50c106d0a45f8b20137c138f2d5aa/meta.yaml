@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d6b50c106d0a45f8b20137c138f2d5aa/artifacts
+end_time: 1711634913499
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d6b50c106d0a45f8b20137c138f2d5aa
+run_name: brawny-grub-921
+run_uuid: d6b50c106d0a45f8b20137c138f2d5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711634901613
+status: 3
+tags: []
+user_id: mesude

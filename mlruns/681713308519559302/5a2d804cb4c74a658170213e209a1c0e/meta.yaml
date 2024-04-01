@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5a2d804cb4c74a658170213e209a1c0e/artifacts
+end_time: 1711958099109
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5a2d804cb4c74a658170213e209a1c0e
+run_name: thoughtful-fox-784
+run_uuid: 5a2d804cb4c74a658170213e209a1c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711958082608
+status: 3
+tags: []
+user_id: mesude

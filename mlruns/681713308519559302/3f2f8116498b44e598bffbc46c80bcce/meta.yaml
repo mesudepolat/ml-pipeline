@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/3f2f8116498b44e598bffbc46c80bcce/artifacts
+end_time: 1711692984302
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 3f2f8116498b44e598bffbc46c80bcce
+run_name: burly-sloth-820
+run_uuid: 3f2f8116498b44e598bffbc46c80bcce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692975308
+status: 3
+tags: []
+user_id: mesude

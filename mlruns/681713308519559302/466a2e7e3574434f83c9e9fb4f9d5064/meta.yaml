@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/466a2e7e3574434f83c9e9fb4f9d5064/artifacts
+end_time: 1711617059395
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 466a2e7e3574434f83c9e9fb4f9d5064
+run_name: crawling-zebra-317
+run_uuid: 466a2e7e3574434f83c9e9fb4f9d5064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617058156
+status: 3
+tags: []
+user_id: mesude

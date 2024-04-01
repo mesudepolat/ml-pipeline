@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/8eb98fcbb2d14e0aa7b37dc8411d4a5b/artifacts
+end_time: 1711617301176
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 8eb98fcbb2d14e0aa7b37dc8411d4a5b
+run_name: chill-ape-408
+run_uuid: 8eb98fcbb2d14e0aa7b37dc8411d4a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617299801
+status: 3
+tags: []
+user_id: mesude

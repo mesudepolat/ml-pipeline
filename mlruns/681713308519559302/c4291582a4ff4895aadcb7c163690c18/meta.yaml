@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/c4291582a4ff4895aadcb7c163690c18/artifacts
+end_time: 1711616533203
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: c4291582a4ff4895aadcb7c163690c18
+run_name: silent-bear-694
+run_uuid: c4291582a4ff4895aadcb7c163690c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616532007
+status: 3
+tags: []
+user_id: mesude

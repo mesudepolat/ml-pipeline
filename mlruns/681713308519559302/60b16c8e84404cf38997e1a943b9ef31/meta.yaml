@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/60b16c8e84404cf38997e1a943b9ef31/artifacts
+end_time: 1711711210307
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 60b16c8e84404cf38997e1a943b9ef31
+run_name: abrasive-hog-143
+run_uuid: 60b16c8e84404cf38997e1a943b9ef31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711191976
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/38c1861cbec34bb0a483dfd29fd88bd9/artifacts
+end_time: 1711712013457
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 38c1861cbec34bb0a483dfd29fd88bd9
+run_name: amazing-mule-444
+run_uuid: 38c1861cbec34bb0a483dfd29fd88bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711999256
+status: 3
+tags: []
+user_id: mesude

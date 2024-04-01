@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f13cec793cdc4bc683d430d4f1fd259f/artifacts
+end_time: 1711691940315
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f13cec793cdc4bc683d430d4f1fd259f
+run_name: crawling-perch-18
+run_uuid: f13cec793cdc4bc683d430d4f1fd259f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691933760
+status: 3
+tags: []
+user_id: mesude

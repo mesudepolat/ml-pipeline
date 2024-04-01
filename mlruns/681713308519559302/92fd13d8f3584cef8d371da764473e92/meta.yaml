@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/92fd13d8f3584cef8d371da764473e92/artifacts
+end_time: 1711692393060
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 92fd13d8f3584cef8d371da764473e92
+run_name: suave-squid-915
+run_uuid: 92fd13d8f3584cef8d371da764473e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692379177
+status: 3
+tags: []
+user_id: mesude

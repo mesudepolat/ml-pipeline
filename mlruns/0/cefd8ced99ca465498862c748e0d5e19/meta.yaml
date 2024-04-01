@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cefd8ced99ca465498862c748e0d5e19/artifacts
+end_time: 1711527140967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cefd8ced99ca465498862c748e0d5e19
+run_name: gentle-loon-350
+run_uuid: cefd8ced99ca465498862c748e0d5e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527139500
+status: 3
+tags: []
+user_id: mesude

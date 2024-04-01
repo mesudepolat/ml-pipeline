@@ -1,0 +1,10 @@
+{
+  "loss": NaN,
+  "mean_squared_error": NaN,
+  "mean_absolute_error": NaN,
+  "val_loss": NaN,
+  "val_mean_squared_error": NaN,
+  "val_mean_absolute_error": NaN,
+  "epoch": 0,
+  "global_step": 150
+}

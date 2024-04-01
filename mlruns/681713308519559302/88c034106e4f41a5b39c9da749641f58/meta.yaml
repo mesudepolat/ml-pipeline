@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/88c034106e4f41a5b39c9da749641f58/artifacts
+end_time: 1711547053697
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 88c034106e4f41a5b39c9da749641f58
+run_name: fun-panda-717
+run_uuid: 88c034106e4f41a5b39c9da749641f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547052497
+status: 3
+tags: []
+user_id: mesude

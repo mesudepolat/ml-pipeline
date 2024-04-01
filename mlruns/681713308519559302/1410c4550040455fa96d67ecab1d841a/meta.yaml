@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1410c4550040455fa96d67ecab1d841a/artifacts
+end_time: 1711713738528
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1410c4550040455fa96d67ecab1d841a
+run_name: magnificent-bear-252
+run_uuid: 1410c4550040455fa96d67ecab1d841a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711713718345
+status: 3
+tags: []
+user_id: mesude

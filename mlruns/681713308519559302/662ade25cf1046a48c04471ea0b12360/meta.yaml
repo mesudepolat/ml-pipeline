@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/662ade25cf1046a48c04471ea0b12360/artifacts
+end_time: 1711616455044
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 662ade25cf1046a48c04471ea0b12360
+run_name: funny-sow-62
+run_uuid: 662ade25cf1046a48c04471ea0b12360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616453848
+status: 3
+tags: []
+user_id: mesude

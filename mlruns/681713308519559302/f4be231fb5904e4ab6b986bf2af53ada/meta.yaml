@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f4be231fb5904e4ab6b986bf2af53ada/artifacts
+end_time: 1711616709664
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f4be231fb5904e4ab6b986bf2af53ada
+run_name: lyrical-dove-521
+run_uuid: f4be231fb5904e4ab6b986bf2af53ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616708210
+status: 3
+tags: []
+user_id: mesude

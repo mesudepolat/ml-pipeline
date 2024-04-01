@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b99dfed55e054216a241972b49704649/artifacts
+end_time: 1711616348093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b99dfed55e054216a241972b49704649
+run_name: carefree-gnu-627
+run_uuid: b99dfed55e054216a241972b49704649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616346596
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6c6f32069c9149868cc3c66e21e3d279/artifacts
+end_time: 1711527361758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c6f32069c9149868cc3c66e21e3d279
+run_name: hilarious-gnat-102
+run_uuid: 6c6f32069c9149868cc3c66e21e3d279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527360563
+status: 3
+tags: []
+user_id: mesude

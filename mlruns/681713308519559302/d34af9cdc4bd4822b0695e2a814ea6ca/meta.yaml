@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d34af9cdc4bd4822b0695e2a814ea6ca/artifacts
+end_time: 1711617324332
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d34af9cdc4bd4822b0695e2a814ea6ca
+run_name: salty-mink-561
+run_uuid: d34af9cdc4bd4822b0695e2a814ea6ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617323096
+status: 3
+tags: []
+user_id: mesude

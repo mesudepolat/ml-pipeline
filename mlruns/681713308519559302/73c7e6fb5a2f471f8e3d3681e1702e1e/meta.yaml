@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/73c7e6fb5a2f471f8e3d3681e1702e1e/artifacts
+end_time: 1711617487948
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 73c7e6fb5a2f471f8e3d3681e1702e1e
+run_name: abrasive-wolf-224
+run_uuid: 73c7e6fb5a2f471f8e3d3681e1702e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617486671
+status: 3
+tags: []
+user_id: mesude

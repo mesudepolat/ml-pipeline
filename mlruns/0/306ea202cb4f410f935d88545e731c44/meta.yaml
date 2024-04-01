@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/306ea202cb4f410f935d88545e731c44/artifacts
+end_time: 1711547844217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 306ea202cb4f410f935d88545e731c44
+run_name: upbeat-tern-442
+run_uuid: 306ea202cb4f410f935d88545e731c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547842914
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a989703af52a41c6946b75263ec5bcf9/artifacts
+end_time: 1711547067515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a989703af52a41c6946b75263ec5bcf9
+run_name: clean-panda-618
+run_uuid: a989703af52a41c6946b75263ec5bcf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547066162
+status: 3
+tags: []
+user_id: mesude

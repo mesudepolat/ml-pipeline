@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1ef3ac00a0684950925f421adbf1a70a/artifacts
+end_time: 1711714446749
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1ef3ac00a0684950925f421adbf1a70a
+run_name: rare-conch-220
+run_uuid: 1ef3ac00a0684950925f421adbf1a70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711714428805
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6d90520f33a148d4bd8e89e1ae16853e/artifacts
+end_time: 1711691469816
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6d90520f33a148d4bd8e89e1ae16853e
+run_name: luxuriant-cow-687
+run_uuid: 6d90520f33a148d4bd8e89e1ae16853e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691460761
+status: 3
+tags: []
+user_id: mesude

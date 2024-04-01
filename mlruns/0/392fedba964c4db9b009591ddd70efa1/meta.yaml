@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/392fedba964c4db9b009591ddd70efa1/artifacts
+end_time: 1711616947897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 392fedba964c4db9b009591ddd70efa1
+run_name: nimble-carp-169
+run_uuid: 392fedba964c4db9b009591ddd70efa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616946616
+status: 3
+tags: []
+user_id: mesude

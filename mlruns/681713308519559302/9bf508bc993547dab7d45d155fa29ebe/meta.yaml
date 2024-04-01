@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9bf508bc993547dab7d45d155fa29ebe/artifacts
+end_time: 1711617389899
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9bf508bc993547dab7d45d155fa29ebe
+run_name: judicious-shoat-886
+run_uuid: 9bf508bc993547dab7d45d155fa29ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617388668
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ad086c4333794abcac62921445f7b7da/artifacts
+end_time: 1711691677824
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ad086c4333794abcac62921445f7b7da
+run_name: wistful-perch-578
+run_uuid: ad086c4333794abcac62921445f7b7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691671959
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/cc5b720b08f242479d5dc698e95f23b1/artifacts
+end_time: 1711690834720
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: cc5b720b08f242479d5dc698e95f23b1
+run_name: adaptable-shrike-467
+run_uuid: cc5b720b08f242479d5dc698e95f23b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690824882
+status: 3
+tags: []
+user_id: mesude

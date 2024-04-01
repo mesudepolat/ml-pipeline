@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/34bdc18aa2354cb4bb610d3232c6a2e2/artifacts
+end_time: 1711691317098
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 34bdc18aa2354cb4bb610d3232c6a2e2
+run_name: marvelous-kite-21
+run_uuid: 34bdc18aa2354cb4bb610d3232c6a2e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691305534
+status: 3
+tags: []
+user_id: mesude

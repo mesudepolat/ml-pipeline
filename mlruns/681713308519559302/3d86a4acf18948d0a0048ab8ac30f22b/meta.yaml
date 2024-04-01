@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/3d86a4acf18948d0a0048ab8ac30f22b/artifacts
+end_time: 1711617200476
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 3d86a4acf18948d0a0048ab8ac30f22b
+run_name: resilient-goose-791
+run_uuid: 3d86a4acf18948d0a0048ab8ac30f22b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617199207
+status: 3
+tags: []
+user_id: mesude

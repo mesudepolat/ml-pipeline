@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1bd7947ceeef4200aafa14c7b8b7c146/artifacts
+end_time: 1711714480728
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1bd7947ceeef4200aafa14c7b8b7c146
+run_name: sedate-horse-930
+run_uuid: 1bd7947ceeef4200aafa14c7b8b7c146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711714465002
+status: 3
+tags: []
+user_id: mesude

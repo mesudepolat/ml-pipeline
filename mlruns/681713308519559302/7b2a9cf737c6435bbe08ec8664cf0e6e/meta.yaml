@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7b2a9cf737c6435bbe08ec8664cf0e6e/artifacts
+end_time: 1711710472059
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7b2a9cf737c6435bbe08ec8664cf0e6e
+run_name: merciful-toad-907
+run_uuid: 7b2a9cf737c6435bbe08ec8664cf0e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710456702
+status: 3
+tags: []
+user_id: mesude

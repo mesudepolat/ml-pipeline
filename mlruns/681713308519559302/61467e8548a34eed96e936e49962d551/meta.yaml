@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/61467e8548a34eed96e936e49962d551/artifacts
+end_time: 1711616739713
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 61467e8548a34eed96e936e49962d551
+run_name: thundering-koi-294
+run_uuid: 61467e8548a34eed96e936e49962d551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616738512
+status: 3
+tags: []
+user_id: mesude

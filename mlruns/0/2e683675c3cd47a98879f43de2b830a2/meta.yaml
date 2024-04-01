@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e683675c3cd47a98879f43de2b830a2/artifacts
+end_time: 1711547702206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e683675c3cd47a98879f43de2b830a2
+run_name: unruly-sow-404
+run_uuid: 2e683675c3cd47a98879f43de2b830a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547700899
+status: 3
+tags: []
+user_id: mesude

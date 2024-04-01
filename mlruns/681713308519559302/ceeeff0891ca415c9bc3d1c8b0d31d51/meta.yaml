@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ceeeff0891ca415c9bc3d1c8b0d31d51/artifacts
+end_time: 1711694886677
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ceeeff0891ca415c9bc3d1c8b0d31d51
+run_name: sneaky-kite-920
+run_uuid: ceeeff0891ca415c9bc3d1c8b0d31d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711694876338
+status: 3
+tags: []
+user_id: mesude

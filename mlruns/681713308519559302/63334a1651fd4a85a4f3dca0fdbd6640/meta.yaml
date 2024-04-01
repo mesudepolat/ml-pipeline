@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/63334a1651fd4a85a4f3dca0fdbd6640/artifacts
+end_time: 1711617461256
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 63334a1651fd4a85a4f3dca0fdbd6640
+run_name: casual-calf-464
+run_uuid: 63334a1651fd4a85a4f3dca0fdbd6640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617459988
+status: 3
+tags: []
+user_id: mesude

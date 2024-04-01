@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1896c9088c414174ab82ebc962885ce1/artifacts
+end_time: 1711617576680
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1896c9088c414174ab82ebc962885ce1
+run_name: peaceful-fawn-337
+run_uuid: 1896c9088c414174ab82ebc962885ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617575446
+status: 3
+tags: []
+user_id: mesude

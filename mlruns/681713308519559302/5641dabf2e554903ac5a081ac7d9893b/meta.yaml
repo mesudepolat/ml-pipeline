@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5641dabf2e554903ac5a081ac7d9893b/artifacts
+end_time: 1711547049961
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5641dabf2e554903ac5a081ac7d9893b
+run_name: incongruous-colt-130
+run_uuid: 5641dabf2e554903ac5a081ac7d9893b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547048538
+status: 3
+tags: []
+user_id: mesude

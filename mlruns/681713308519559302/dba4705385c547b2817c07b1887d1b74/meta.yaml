@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/dba4705385c547b2817c07b1887d1b74/artifacts
+end_time: 1711540409651
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: dba4705385c547b2817c07b1887d1b74
+run_name: respected-fly-782
+run_uuid: dba4705385c547b2817c07b1887d1b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711540400549
+status: 3
+tags: []
+user_id: mesude

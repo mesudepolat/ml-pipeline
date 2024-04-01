@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/605dfd8ff07b4514881a5a19ce8c5a65/artifacts
+end_time: 1711617099648
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 605dfd8ff07b4514881a5a19ce8c5a65
+run_name: classy-grouse-656
+run_uuid: 605dfd8ff07b4514881a5a19ce8c5a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617098192
+status: 3
+tags: []
+user_id: mesude

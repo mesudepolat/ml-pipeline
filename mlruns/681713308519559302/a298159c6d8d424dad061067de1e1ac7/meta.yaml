@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a298159c6d8d424dad061067de1e1ac7/artifacts
+end_time: 1711616528021
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a298159c6d8d424dad061067de1e1ac7
+run_name: dazzling-snail-8
+run_uuid: a298159c6d8d424dad061067de1e1ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616526816
+status: 3
+tags: []
+user_id: mesude

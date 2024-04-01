@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/37079649bfc84af69715a4f6e76ad071/artifacts
+end_time: 1711617148421
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 37079649bfc84af69715a4f6e76ad071
+run_name: bustling-roo-947
+run_uuid: 37079649bfc84af69715a4f6e76ad071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617147207
+status: 3
+tags: []
+user_id: mesude

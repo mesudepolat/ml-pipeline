@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/60e5a72089bb4a1a8f05ad8cd8bb5923/artifacts
+end_time: 1711711929026
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 60e5a72089bb4a1a8f05ad8cd8bb5923
+run_name: fearless-dolphin-984
+run_uuid: 60e5a72089bb4a1a8f05ad8cd8bb5923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711914289
+status: 3
+tags: []
+user_id: mesude

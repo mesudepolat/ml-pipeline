@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9bd327c9ac7a4ec088ea60084484cf05/artifacts
+end_time: 1711616589833
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9bd327c9ac7a4ec088ea60084484cf05
+run_name: enchanting-cow-67
+run_uuid: 9bd327c9ac7a4ec088ea60084484cf05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616588619
+status: 3
+tags: []
+user_id: mesude

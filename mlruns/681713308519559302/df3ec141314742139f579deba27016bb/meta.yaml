@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/df3ec141314742139f579deba27016bb/artifacts
+end_time: 1711692783360
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: df3ec141314742139f579deba27016bb
+run_name: overjoyed-ram-169
+run_uuid: df3ec141314742139f579deba27016bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692771462
+status: 3
+tags: []
+user_id: mesude

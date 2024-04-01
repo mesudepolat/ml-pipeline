@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/3dbbd007b1254b14bb80f2ecef72db46/artifacts
+end_time: 1711712339423
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 3dbbd007b1254b14bb80f2ecef72db46
+run_name: auspicious-trout-893
+run_uuid: 3dbbd007b1254b14bb80f2ecef72db46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712321773
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/c20600fe3027466fae757326627a30de/artifacts
+end_time: 1711616579391
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: c20600fe3027466fae757326627a30de
+run_name: enthused-chimp-534
+run_uuid: c20600fe3027466fae757326627a30de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616578012
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6db74d45b8c84af1a545e2f6b9ac84de/artifacts
+end_time: 1711616543589
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6db74d45b8c84af1a545e2f6b9ac84de
+run_name: rumbling-ray-891
+run_uuid: 6db74d45b8c84af1a545e2f6b9ac84de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616542129
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4d7b7a6396b243609f1524965c17844b/artifacts
+end_time: 1711633611994
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4d7b7a6396b243609f1524965c17844b
+run_name: melodic-deer-324
+run_uuid: 4d7b7a6396b243609f1524965c17844b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633600332
+status: 3
+tags: []
+user_id: mesude

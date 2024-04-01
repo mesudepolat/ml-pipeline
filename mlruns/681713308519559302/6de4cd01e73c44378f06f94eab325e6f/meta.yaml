@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6de4cd01e73c44378f06f94eab325e6f/artifacts
+end_time: 1711616515349
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6de4cd01e73c44378f06f94eab325e6f
+run_name: adaptable-moose-454
+run_uuid: 6de4cd01e73c44378f06f94eab325e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616513916
+status: 3
+tags: []
+user_id: mesude

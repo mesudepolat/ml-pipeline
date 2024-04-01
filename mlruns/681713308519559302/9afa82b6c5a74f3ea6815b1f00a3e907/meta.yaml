@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9afa82b6c5a74f3ea6815b1f00a3e907/artifacts
+end_time: 1711617020902
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9afa82b6c5a74f3ea6815b1f00a3e907
+run_name: caring-stag-925
+run_uuid: 9afa82b6c5a74f3ea6815b1f00a3e907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617019721
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a5643b84ce2e42df89326c96b7b74312/artifacts
+end_time: 1711616453841
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a5643b84ce2e42df89326c96b7b74312
+run_name: victorious-conch-283
+run_uuid: a5643b84ce2e42df89326c96b7b74312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616452629
+status: 3
+tags: []
+user_id: mesude

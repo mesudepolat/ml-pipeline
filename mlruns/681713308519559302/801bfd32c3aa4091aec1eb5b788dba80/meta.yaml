@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/801bfd32c3aa4091aec1eb5b788dba80/artifacts
+end_time: 1711708808816
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 801bfd32c3aa4091aec1eb5b788dba80
+run_name: unleashed-rat-929
+run_uuid: 801bfd32c3aa4091aec1eb5b788dba80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711708788616
+status: 3
+tags: []
+user_id: mesude

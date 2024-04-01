@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2ec2374b9eaa4464b11f16e0451dbcec/artifacts
+end_time: 1711547025966
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2ec2374b9eaa4464b11f16e0451dbcec
+run_name: skittish-shrike-298
+run_uuid: 2ec2374b9eaa4464b11f16e0451dbcec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547024768
+status: 3
+tags: []
+user_id: mesude

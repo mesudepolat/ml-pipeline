@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/8a2230f37b324d6bacf37a5cc7885a98/artifacts
+end_time: 1711690557773
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 8a2230f37b324d6bacf37a5cc7885a98
+run_name: powerful-seal-761
+run_uuid: 8a2230f37b324d6bacf37a5cc7885a98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690545986
+status: 3
+tags: []
+user_id: mesude

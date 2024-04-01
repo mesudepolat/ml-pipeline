@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/c63e74d33f014d79b5a38786464c57bf/artifacts
+end_time: 1711709937241
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: c63e74d33f014d79b5a38786464c57bf
+run_name: overjoyed-croc-58
+run_uuid: c63e74d33f014d79b5a38786464c57bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709918970
+status: 3
+tags: []
+user_id: mesude

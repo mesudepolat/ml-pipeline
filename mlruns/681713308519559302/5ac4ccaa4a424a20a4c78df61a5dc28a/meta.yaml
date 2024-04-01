@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5ac4ccaa4a424a20a4c78df61a5dc28a/artifacts
+end_time: 1711617383428
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5ac4ccaa4a424a20a4c78df61a5dc28a
+run_name: upset-moth-65
+run_uuid: 5ac4ccaa4a424a20a4c78df61a5dc28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617381941
+status: 3
+tags: []
+user_id: mesude

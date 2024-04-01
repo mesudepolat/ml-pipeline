@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ad38cc0fa780415aaca83d7331458ed5/artifacts
+end_time: 1711691971508
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ad38cc0fa780415aaca83d7331458ed5
+run_name: unruly-snake-812
+run_uuid: ad38cc0fa780415aaca83d7331458ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691959818
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ff73df27e1724148ae1387162ebe2f3e/artifacts
+end_time: 1711695484864
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ff73df27e1724148ae1387162ebe2f3e
+run_name: amazing-carp-846
+run_uuid: ff73df27e1724148ae1387162ebe2f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695474246
+status: 3
+tags: []
+user_id: mesude

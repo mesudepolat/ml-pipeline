@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a29c223329cb4b7a8d2a6ebd6d74bcb2/artifacts
+end_time: 1711633622855
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a29c223329cb4b7a8d2a6ebd6d74bcb2
+run_name: classy-wolf-835
+run_uuid: a29c223329cb4b7a8d2a6ebd6d74bcb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633612003
+status: 3
+tags: []
+user_id: mesude

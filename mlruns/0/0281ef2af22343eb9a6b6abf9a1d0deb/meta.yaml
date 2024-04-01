@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0281ef2af22343eb9a6b6abf9a1d0deb/artifacts
+end_time: 1711616103059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0281ef2af22343eb9a6b6abf9a1d0deb
+run_name: debonair-shark-115
+run_uuid: 0281ef2af22343eb9a6b6abf9a1d0deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616101759
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/0d79a0ecb17e41a9a724d4fc12bee819/artifacts
+end_time: 1711617399190
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 0d79a0ecb17e41a9a724d4fc12bee819
+run_name: righteous-zebra-964
+run_uuid: 0d79a0ecb17e41a9a724d4fc12bee819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617397957
+status: 3
+tags: []
+user_id: mesude

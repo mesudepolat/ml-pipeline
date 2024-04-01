@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/b3ad76a3e2cb43318658a2de9ee16ef0/artifacts
+end_time: 1711616474093
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: b3ad76a3e2cb43318658a2de9ee16ef0
+run_name: peaceful-koi-342
+run_uuid: b3ad76a3e2cb43318658a2de9ee16ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616472876
+status: 3
+tags: []
+user_id: mesude

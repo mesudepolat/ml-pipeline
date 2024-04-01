@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f3395143a39a440aad0398aead21ebf9/artifacts
+end_time: 1711617497042
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f3395143a39a440aad0398aead21ebf9
+run_name: bedecked-moth-671
+run_uuid: f3395143a39a440aad0398aead21ebf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617495752
+status: 3
+tags: []
+user_id: mesude

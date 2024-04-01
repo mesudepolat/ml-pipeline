@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d7b85b592b3e446894640aa5cc3c005a/artifacts
+end_time: 1711527144581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7b85b592b3e446894640aa5cc3c005a
+run_name: powerful-hog-637
+run_uuid: d7b85b592b3e446894640aa5cc3c005a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527143384
+status: 3
+tags: []
+user_id: mesude

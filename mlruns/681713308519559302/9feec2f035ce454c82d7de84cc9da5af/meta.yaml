@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9feec2f035ce454c82d7de84cc9da5af/artifacts
+end_time: 1711714730115
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9feec2f035ce454c82d7de84cc9da5af
+run_name: handsome-shark-718
+run_uuid: 9feec2f035ce454c82d7de84cc9da5af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711714714079
+status: 3
+tags: []
+user_id: mesude

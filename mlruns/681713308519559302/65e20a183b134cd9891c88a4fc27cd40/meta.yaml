@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/65e20a183b134cd9891c88a4fc27cd40/artifacts
+end_time: 1711616688325
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 65e20a183b134cd9891c88a4fc27cd40
+run_name: abrasive-fox-313
+run_uuid: 65e20a183b134cd9891c88a4fc27cd40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616687140
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e50852ca93be4304a6bf693ba33f6615/artifacts
+end_time: 1711547710771
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e50852ca93be4304a6bf693ba33f6615
+run_name: gifted-lark-217
+run_uuid: e50852ca93be4304a6bf693ba33f6615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547709557
+status: 3
+tags: []
+user_id: mesude

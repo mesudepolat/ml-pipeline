@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/bd3209f63ec043e08fd45323943e7101/artifacts
+end_time: 1711617386132
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: bd3209f63ec043e08fd45323943e7101
+run_name: angry-fawn-656
+run_uuid: bd3209f63ec043e08fd45323943e7101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617384843
+status: 3
+tags: []
+user_id: mesude

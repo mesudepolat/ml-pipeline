@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/40ed2037f6eb409886267f9f3c9b31be/artifacts
+end_time: 1711617325826
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 40ed2037f6eb409886267f9f3c9b31be
+run_name: amusing-conch-308
+run_uuid: 40ed2037f6eb409886267f9f3c9b31be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617324340
+status: 3
+tags: []
+user_id: mesude

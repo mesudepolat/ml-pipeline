@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/481e73a1498e4654a7c9ad0bd58183ca/artifacts
+end_time: 1711711672377
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 481e73a1498e4654a7c9ad0bd58183ca
+run_name: painted-wren-15
+run_uuid: 481e73a1498e4654a7c9ad0bd58183ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711652089
+status: 3
+tags: []
+user_id: mesude

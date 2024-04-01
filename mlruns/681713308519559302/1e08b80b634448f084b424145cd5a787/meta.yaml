@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1e08b80b634448f084b424145cd5a787/artifacts
+end_time: 1711616499254
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1e08b80b634448f084b424145cd5a787
+run_name: auspicious-fox-813
+run_uuid: 1e08b80b634448f084b424145cd5a787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616497621
+status: 3
+tags: []
+user_id: mesude

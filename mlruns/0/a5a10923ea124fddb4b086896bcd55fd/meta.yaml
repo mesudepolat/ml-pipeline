@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a5a10923ea124fddb4b086896bcd55fd/artifacts
+end_time: 1711616406452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a10923ea124fddb4b086896bcd55fd
+run_name: thoughtful-doe-797
+run_uuid: a5a10923ea124fddb4b086896bcd55fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616405249
+status: 3
+tags: []
+user_id: mesude

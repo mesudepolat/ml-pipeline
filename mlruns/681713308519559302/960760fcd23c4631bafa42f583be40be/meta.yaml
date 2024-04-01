@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/960760fcd23c4631bafa42f583be40be/artifacts
+end_time: 1711694106558
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 960760fcd23c4631bafa42f583be40be
+run_name: youthful-mole-276
+run_uuid: 960760fcd23c4631bafa42f583be40be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711694096055
+status: 3
+tags: []
+user_id: mesude

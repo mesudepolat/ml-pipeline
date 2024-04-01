@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5e229d2e634443db9e84a4388094d4ab/artifacts
+end_time: 1711709094468
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5e229d2e634443db9e84a4388094d4ab
+run_name: abrasive-kit-700
+run_uuid: 5e229d2e634443db9e84a4388094d4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709078519
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/998f2523da0c439d8960198a38f3e34e/artifacts
+end_time: 1711633788131
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 998f2523da0c439d8960198a38f3e34e
+run_name: unleashed-perch-289
+run_uuid: 998f2523da0c439d8960198a38f3e34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633780882
+status: 3
+tags: []
+user_id: mesude

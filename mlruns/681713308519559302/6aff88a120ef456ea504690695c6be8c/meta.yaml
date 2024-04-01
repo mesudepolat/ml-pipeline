@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6aff88a120ef456ea504690695c6be8c/artifacts
+end_time: 1711712151220
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6aff88a120ef456ea504690695c6be8c
+run_name: clumsy-mare-523
+run_uuid: 6aff88a120ef456ea504690695c6be8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712135777
+status: 3
+tags: []
+user_id: mesude

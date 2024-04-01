@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2a52b20e71ed48b0b0c2c997f63ca0f5/artifacts
+end_time: 1711958713169
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2a52b20e71ed48b0b0c2c997f63ca0f5
+run_name: marvelous-flea-782
+run_uuid: 2a52b20e71ed48b0b0c2c997f63ca0f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711958692881
+status: 3
+tags: []
+user_id: mesude

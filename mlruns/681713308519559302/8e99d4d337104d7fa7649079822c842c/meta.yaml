@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/8e99d4d337104d7fa7649079822c842c/artifacts
+end_time: 1711616968248
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 8e99d4d337104d7fa7649079822c842c
+run_name: glamorous-trout-74
+run_uuid: 8e99d4d337104d7fa7649079822c842c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616967021
+status: 3
+tags: []
+user_id: mesude

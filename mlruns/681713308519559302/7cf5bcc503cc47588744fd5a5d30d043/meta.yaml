@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7cf5bcc503cc47588744fd5a5d30d043/artifacts
+end_time: 1711617282542
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7cf5bcc503cc47588744fd5a5d30d043
+run_name: abundant-tern-260
+run_uuid: 7cf5bcc503cc47588744fd5a5d30d043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617281302
+status: 3
+tags: []
+user_id: mesude

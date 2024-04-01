@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9592cec073c247f68d50852a87fc87b0/artifacts
+end_time: 1711712649806
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9592cec073c247f68d50852a87fc87b0
+run_name: bouncy-midge-275
+run_uuid: 9592cec073c247f68d50852a87fc87b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712634731
+status: 3
+tags: []
+user_id: mesude

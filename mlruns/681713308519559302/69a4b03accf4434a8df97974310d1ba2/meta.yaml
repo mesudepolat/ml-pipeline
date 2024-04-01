@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/69a4b03accf4434a8df97974310d1ba2/artifacts
+end_time: 1711712186449
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 69a4b03accf4434a8df97974310d1ba2
+run_name: abundant-toad-8
+run_uuid: 69a4b03accf4434a8df97974310d1ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712166078
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4c7bacf31f144774bde836c8632b56fd/artifacts
+end_time: 1711958082595
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4c7bacf31f144774bde836c8632b56fd
+run_name: bald-sloth-829
+run_uuid: 4c7bacf31f144774bde836c8632b56fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711958063315
+status: 3
+tags: []
+user_id: mesude

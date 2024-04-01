@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e857328963f447acaf0614bd448554be/artifacts
+end_time: 1711616608298
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e857328963f447acaf0614bd448554be
+run_name: omniscient-lark-626
+run_uuid: e857328963f447acaf0614bd448554be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616606875
+status: 3
+tags: []
+user_id: mesude

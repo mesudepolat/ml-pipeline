@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e361b9902c2c4a0f96784fd57efbdea8/artifacts
+end_time: 1711616614755
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e361b9902c2c4a0f96784fd57efbdea8
+run_name: enchanting-mole-361
+run_uuid: e361b9902c2c4a0f96784fd57efbdea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616613489
+status: 3
+tags: []
+user_id: mesude

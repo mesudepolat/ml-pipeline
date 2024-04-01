@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4a8f667d1948493a8a45e71f7ab5df70/artifacts
+end_time: 1711959167899
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4a8f667d1948493a8a45e71f7ab5df70
+run_name: smiling-cow-422
+run_uuid: 4a8f667d1948493a8a45e71f7ab5df70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711959146403
+status: 3
+tags: []
+user_id: mesude

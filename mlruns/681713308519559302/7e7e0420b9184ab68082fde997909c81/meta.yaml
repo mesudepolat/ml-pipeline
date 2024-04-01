@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7e7e0420b9184ab68082fde997909c81/artifacts
+end_time: 1711617466456
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7e7e0420b9184ab68082fde997909c81
+run_name: polite-deer-884
+run_uuid: 7e7e0420b9184ab68082fde997909c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617465209
+status: 3
+tags: []
+user_id: mesude

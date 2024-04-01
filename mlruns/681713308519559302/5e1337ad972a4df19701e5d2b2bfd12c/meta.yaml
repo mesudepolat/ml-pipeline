@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5e1337ad972a4df19701e5d2b2bfd12c/artifacts
+end_time: 1711617058149
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5e1337ad972a4df19701e5d2b2bfd12c
+run_name: stately-snake-648
+run_uuid: 5e1337ad972a4df19701e5d2b2bfd12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617056938
+status: 3
+tags: []
+user_id: mesude

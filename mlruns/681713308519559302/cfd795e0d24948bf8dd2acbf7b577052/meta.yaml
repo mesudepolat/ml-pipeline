@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/cfd795e0d24948bf8dd2acbf7b577052/artifacts
+end_time: 1711617246074
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: cfd795e0d24948bf8dd2acbf7b577052
+run_name: colorful-fish-610
+run_uuid: cfd795e0d24948bf8dd2acbf7b577052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617244837
+status: 3
+tags: []
+user_id: mesude

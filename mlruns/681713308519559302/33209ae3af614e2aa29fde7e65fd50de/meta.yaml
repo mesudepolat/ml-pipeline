@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/33209ae3af614e2aa29fde7e65fd50de/artifacts
+end_time: 1711547048452
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 33209ae3af614e2aa29fde7e65fd50de
+run_name: vaunted-boar-184
+run_uuid: 33209ae3af614e2aa29fde7e65fd50de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547047231
+status: 3
+tags: []
+user_id: mesude

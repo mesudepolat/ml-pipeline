@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ee271c1e1ee14178aaf8b7d67eb4f2ee/artifacts
+end_time: 1711711375189
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ee271c1e1ee14178aaf8b7d67eb4f2ee
+run_name: redolent-turtle-759
+run_uuid: ee271c1e1ee14178aaf8b7d67eb4f2ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711355036
+status: 3
+tags: []
+user_id: mesude

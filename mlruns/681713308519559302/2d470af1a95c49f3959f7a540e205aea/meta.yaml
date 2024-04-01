@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2d470af1a95c49f3959f7a540e205aea/artifacts
+end_time: 1711693858252
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2d470af1a95c49f3959f7a540e205aea
+run_name: nebulous-bird-343
+run_uuid: 2d470af1a95c49f3959f7a540e205aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693849666
+status: 3
+tags: []
+user_id: mesude

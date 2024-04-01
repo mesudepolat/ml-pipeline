@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ea2d751d7aea46d5880338d6cdbe755c/artifacts
+end_time: 1711617505162
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ea2d751d7aea46d5880338d6cdbe755c
+run_name: amusing-wren-620
+run_uuid: ea2d751d7aea46d5880338d6cdbe755c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617503922
+status: 3
+tags: []
+user_id: mesude

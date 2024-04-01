@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d1c0ab533254f39a03008f4d445db1a/artifacts
+end_time: 1711547842906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d1c0ab533254f39a03008f4d445db1a
+run_name: indecisive-panda-376
+run_uuid: 0d1c0ab533254f39a03008f4d445db1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547841115
+status: 3
+tags: []
+user_id: mesude

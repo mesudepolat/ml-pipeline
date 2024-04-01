@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/309cd0f2d1d24098a231e4c7041b259b/artifacts
+end_time: 1711616436427
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 309cd0f2d1d24098a231e4c7041b259b
+run_name: gentle-cat-743
+run_uuid: 309cd0f2d1d24098a231e4c7041b259b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616435237
+status: 3
+tags: []
+user_id: mesude

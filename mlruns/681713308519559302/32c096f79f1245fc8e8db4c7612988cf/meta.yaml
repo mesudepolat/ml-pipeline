@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/32c096f79f1245fc8e8db4c7612988cf/artifacts
+end_time: 1711617291771
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 32c096f79f1245fc8e8db4c7612988cf
+run_name: smiling-goose-660
+run_uuid: 32c096f79f1245fc8e8db4c7612988cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617290534
+status: 3
+tags: []
+user_id: mesude

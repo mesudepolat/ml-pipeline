@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e2cda6c05e0847a28a1110cff29b4877/artifacts
+end_time: 1711634925183
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e2cda6c05e0847a28a1110cff29b4877
+run_name: fearless-shark-81
+run_uuid: e2cda6c05e0847a28a1110cff29b4877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711634913508
+status: 3
+tags: []
+user_id: mesude

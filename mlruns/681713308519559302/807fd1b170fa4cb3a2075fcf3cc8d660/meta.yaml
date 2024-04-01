@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/807fd1b170fa4cb3a2075fcf3cc8d660/artifacts
+end_time: 1711691726241
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 807fd1b170fa4cb3a2075fcf3cc8d660
+run_name: bedecked-squid-143
+run_uuid: 807fd1b170fa4cb3a2075fcf3cc8d660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691719981
+status: 3
+tags: []
+user_id: mesude

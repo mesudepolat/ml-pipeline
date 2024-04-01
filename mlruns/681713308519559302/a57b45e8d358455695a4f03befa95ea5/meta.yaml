@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a57b45e8d358455695a4f03befa95ea5/artifacts
+end_time: 1711617134279
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a57b45e8d358455695a4f03befa95ea5
+run_name: invincible-hen-12
+run_uuid: a57b45e8d358455695a4f03befa95ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617133022
+status: 3
+tags: []
+user_id: mesude

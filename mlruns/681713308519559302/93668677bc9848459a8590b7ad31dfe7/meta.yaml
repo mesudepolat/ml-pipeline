@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/93668677bc9848459a8590b7ad31dfe7/artifacts
+end_time: 1711709770500
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 93668677bc9848459a8590b7ad31dfe7
+run_name: useful-sloth-550
+run_uuid: 93668677bc9848459a8590b7ad31dfe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709750279
+status: 3
+tags: []
+user_id: mesude

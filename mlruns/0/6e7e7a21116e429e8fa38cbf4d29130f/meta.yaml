@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6e7e7a21116e429e8fa38cbf4d29130f/artifacts
+end_time: 1711690365021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e7e7a21116e429e8fa38cbf4d29130f
+run_name: luminous-trout-179
+run_uuid: 6e7e7a21116e429e8fa38cbf4d29130f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690353256
+status: 3
+tags: []
+user_id: mesude

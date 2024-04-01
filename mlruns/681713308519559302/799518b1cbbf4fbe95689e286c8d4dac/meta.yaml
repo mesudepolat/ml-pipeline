@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/799518b1cbbf4fbe95689e286c8d4dac/artifacts
+end_time: 1711617072387
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 799518b1cbbf4fbe95689e286c8d4dac
+run_name: shivering-ape-894
+run_uuid: 799518b1cbbf4fbe95689e286c8d4dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617071135
+status: 3
+tags: []
+user_id: mesude

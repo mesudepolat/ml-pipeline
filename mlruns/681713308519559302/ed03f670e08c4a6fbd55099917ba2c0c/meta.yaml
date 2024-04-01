@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ed03f670e08c4a6fbd55099917ba2c0c/artifacts
+end_time: 1711709463428
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ed03f670e08c4a6fbd55099917ba2c0c
+run_name: spiffy-moose-283
+run_uuid: ed03f670e08c4a6fbd55099917ba2c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709449905
+status: 3
+tags: []
+user_id: mesude

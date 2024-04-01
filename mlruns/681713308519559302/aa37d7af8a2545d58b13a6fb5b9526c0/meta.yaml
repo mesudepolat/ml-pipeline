@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/aa37d7af8a2545d58b13a6fb5b9526c0/artifacts
+end_time: 1711692158975
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: aa37d7af8a2545d58b13a6fb5b9526c0
+run_name: mysterious-stoat-61
+run_uuid: aa37d7af8a2545d58b13a6fb5b9526c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692147649
+status: 3
+tags: []
+user_id: mesude

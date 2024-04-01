@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/c1e8cf7f47ce47c0a368093f76ab8838/artifacts
+end_time: 1711694358863
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: c1e8cf7f47ce47c0a368093f76ab8838
+run_name: mercurial-crab-494
+run_uuid: c1e8cf7f47ce47c0a368093f76ab8838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711694346842
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4b3691ae301b4ad49bba053c48f77c18/artifacts
+end_time: 1711633799984
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4b3691ae301b4ad49bba053c48f77c18
+run_name: gregarious-ape-664
+run_uuid: 4b3691ae301b4ad49bba053c48f77c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633788274
+status: 3
+tags: []
+user_id: mesude

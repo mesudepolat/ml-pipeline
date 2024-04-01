@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1fcd26a1963f495083ba23d6a57b0256/artifacts
+end_time: 1711692876393
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1fcd26a1963f495083ba23d6a57b0256
+run_name: glamorous-moose-539
+run_uuid: 1fcd26a1963f495083ba23d6a57b0256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692865374
+status: 3
+tags: []
+user_id: mesude

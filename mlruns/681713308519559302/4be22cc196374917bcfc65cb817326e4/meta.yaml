@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4be22cc196374917bcfc65cb817326e4/artifacts
+end_time: 1711633780873
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4be22cc196374917bcfc65cb817326e4
+run_name: lyrical-goose-235
+run_uuid: 4be22cc196374917bcfc65cb817326e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711633772596
+status: 3
+tags: []
+user_id: mesude

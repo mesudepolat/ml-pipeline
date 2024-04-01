@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/aa0454f2a5e94044bf8c4f001fde9ad5/artifacts
+end_time: 1711617243580
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: aa0454f2a5e94044bf8c4f001fde9ad5
+run_name: clumsy-moth-312
+run_uuid: aa0454f2a5e94044bf8c4f001fde9ad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617242344
+status: 3
+tags: []
+user_id: mesude

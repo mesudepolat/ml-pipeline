@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/0c0b31bd690044edbc5ac01a7707a564/artifacts
+end_time: 1711616433942
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 0c0b31bd690044edbc5ac01a7707a564
+run_name: masked-goose-586
+run_uuid: 0c0b31bd690044edbc5ac01a7707a564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616432750
+status: 3
+tags: []
+user_id: mesude

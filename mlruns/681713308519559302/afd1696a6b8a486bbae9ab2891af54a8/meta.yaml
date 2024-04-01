@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/afd1696a6b8a486bbae9ab2891af54a8/artifacts
+end_time: 1711711267659
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: afd1696a6b8a486bbae9ab2891af54a8
+run_name: learned-croc-344
+run_uuid: afd1696a6b8a486bbae9ab2891af54a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711711247282
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/30e82c67ed3f43d8b446dfc0352ccd0f/artifacts
+end_time: 1711616477966
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 30e82c67ed3f43d8b446dfc0352ccd0f
+run_name: aged-gull-480
+run_uuid: 30e82c67ed3f43d8b446dfc0352ccd0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616476618
+status: 3
+tags: []
+user_id: mesude

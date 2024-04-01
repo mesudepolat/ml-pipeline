@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/f59ce8fc84c24f2d87064cd47b3dea20/artifacts
+end_time: 1711708014992
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: f59ce8fc84c24f2d87064cd47b3dea20
+run_name: beautiful-mink-839
+run_uuid: f59ce8fc84c24f2d87064cd47b3dea20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707999901
+status: 3
+tags: []
+user_id: mesude

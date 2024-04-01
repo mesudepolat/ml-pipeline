@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/52e5ea7260d247f0a226e51d2e26ca59/artifacts
+end_time: 1711617127894
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 52e5ea7260d247f0a226e51d2e26ca59
+run_name: merciful-elk-29
+run_uuid: 52e5ea7260d247f0a226e51d2e26ca59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617126413
+status: 3
+tags: []
+user_id: mesude

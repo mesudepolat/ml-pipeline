@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/eefd441cef214686b71fd9107fb5910f/artifacts
+end_time: 1711616426376
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: eefd441cef214686b71fd9107fb5910f
+run_name: treasured-moth-341
+run_uuid: eefd441cef214686b71fd9107fb5910f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616425205
+status: 3
+tags: []
+user_id: mesude

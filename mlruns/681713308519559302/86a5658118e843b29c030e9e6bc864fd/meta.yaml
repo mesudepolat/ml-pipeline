@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/86a5658118e843b29c030e9e6bc864fd/artifacts
+end_time: 1711616972278
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 86a5658118e843b29c030e9e6bc864fd
+run_name: incongruous-rat-545
+run_uuid: 86a5658118e843b29c030e9e6bc864fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616970817
+status: 3
+tags: []
+user_id: mesude

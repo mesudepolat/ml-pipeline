@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a63154b4a1fd4bb8bbb5141c128e8906/artifacts
+end_time: 1711527143377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a63154b4a1fd4bb8bbb5141c128e8906
+run_name: shivering-vole-226
+run_uuid: a63154b4a1fd4bb8bbb5141c128e8906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527142181
+status: 3
+tags: []
+user_id: mesude

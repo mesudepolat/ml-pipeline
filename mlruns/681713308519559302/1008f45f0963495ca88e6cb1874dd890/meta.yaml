@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/1008f45f0963495ca88e6cb1874dd890/artifacts
+end_time: 1711695320122
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 1008f45f0963495ca88e6cb1874dd890
+run_name: burly-fish-912
+run_uuid: 1008f45f0963495ca88e6cb1874dd890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695310748
+status: 3
+tags: []
+user_id: mesude

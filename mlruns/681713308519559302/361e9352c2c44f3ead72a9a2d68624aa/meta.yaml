@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/361e9352c2c44f3ead72a9a2d68624aa/artifacts
+end_time: 1711710170857
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 361e9352c2c44f3ead72a9a2d68624aa
+run_name: monumental-rat-286
+run_uuid: 361e9352c2c44f3ead72a9a2d68624aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710150705
+status: 3
+tags: []
+user_id: mesude

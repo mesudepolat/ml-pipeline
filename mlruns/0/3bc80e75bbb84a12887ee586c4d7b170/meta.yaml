@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3bc80e75bbb84a12887ee586c4d7b170/artifacts
+end_time: 1711616104259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bc80e75bbb84a12887ee586c4d7b170
+run_name: stately-shark-83
+run_uuid: 3bc80e75bbb84a12887ee586c4d7b170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616103067
+status: 3
+tags: []
+user_id: mesude

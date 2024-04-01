@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/15b28a6d3dc14ea7b6a26cf2c9978210/artifacts
+end_time: 1711616572477
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 15b28a6d3dc14ea7b6a26cf2c9978210
+run_name: useful-shad-194
+run_uuid: 15b28a6d3dc14ea7b6a26cf2c9978210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616570193
+status: 3
+tags: []
+user_id: mesude

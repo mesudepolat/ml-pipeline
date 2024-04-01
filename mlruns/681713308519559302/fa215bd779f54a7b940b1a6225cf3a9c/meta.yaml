@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/fa215bd779f54a7b940b1a6225cf3a9c/artifacts
+end_time: 1711693015079
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: fa215bd779f54a7b940b1a6225cf3a9c
+run_name: melodic-roo-567
+run_uuid: fa215bd779f54a7b940b1a6225cf3a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711693005658
+status: 3
+tags: []
+user_id: mesude

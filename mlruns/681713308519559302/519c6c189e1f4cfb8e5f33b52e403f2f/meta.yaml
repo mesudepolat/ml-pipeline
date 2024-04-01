@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/519c6c189e1f4cfb8e5f33b52e403f2f/artifacts
+end_time: 1711712070939
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 519c6c189e1f4cfb8e5f33b52e403f2f
+run_name: agreeable-skunk-440
+run_uuid: 519c6c189e1f4cfb8e5f33b52e403f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712050702
+status: 3
+tags: []
+user_id: mesude

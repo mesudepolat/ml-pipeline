@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/b4fbf4942042457295bcaae9871db91b/artifacts
+end_time: 1711540452117
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: b4fbf4942042457295bcaae9871db91b
+run_name: whimsical-snake-793
+run_uuid: b4fbf4942042457295bcaae9871db91b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711540443511
+status: 3
+tags: []
+user_id: mesude

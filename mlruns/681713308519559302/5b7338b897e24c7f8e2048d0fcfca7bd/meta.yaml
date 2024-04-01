@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5b7338b897e24c7f8e2048d0fcfca7bd/artifacts
+end_time: 1711540391368
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5b7338b897e24c7f8e2048d0fcfca7bd
+run_name: gentle-pug-680
+run_uuid: 5b7338b897e24c7f8e2048d0fcfca7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711540382230
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a67dda07b0bb4dec8921e22b9f99ba8b/artifacts
+end_time: 1711616446419
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a67dda07b0bb4dec8921e22b9f99ba8b
+run_name: grandiose-horse-56
+run_uuid: a67dda07b0bb4dec8921e22b9f99ba8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616445225
+status: 3
+tags: []
+user_id: mesude

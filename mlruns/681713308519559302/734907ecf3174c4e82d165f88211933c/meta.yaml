@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/734907ecf3174c4e82d165f88211933c/artifacts
+end_time: 1711691376956
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 734907ecf3174c4e82d165f88211933c
+run_name: fortunate-snail-105
+run_uuid: 734907ecf3174c4e82d165f88211933c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691366245
+status: 3
+tags: []
+user_id: mesude

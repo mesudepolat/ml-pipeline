@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/61342525e2f54494b3429a9cae9cd3ca/artifacts
+end_time: 1711540348987
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 61342525e2f54494b3429a9cae9cd3ca
+run_name: adorable-doe-31
+run_uuid: 61342525e2f54494b3429a9cae9cd3ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711540339689
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2ebdf4e12d5c4409895f7b855b6f2f64/artifacts
+end_time: 1711616489944
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2ebdf4e12d5c4409895f7b855b6f2f64
+run_name: flawless-smelt-995
+run_uuid: 2ebdf4e12d5c4409895f7b855b6f2f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616488711
+status: 3
+tags: []
+user_id: mesude

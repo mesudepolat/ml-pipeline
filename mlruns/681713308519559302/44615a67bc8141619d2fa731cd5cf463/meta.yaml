@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/44615a67bc8141619d2fa731cd5cf463/artifacts
+end_time: 1711616448922
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 44615a67bc8141619d2fa731cd5cf463
+run_name: unleashed-yak-95
+run_uuid: 44615a67bc8141619d2fa731cd5cf463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616447725
+status: 3
+tags: []
+user_id: mesude

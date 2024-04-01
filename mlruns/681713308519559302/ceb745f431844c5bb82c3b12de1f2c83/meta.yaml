@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ceb745f431844c5bb82c3b12de1f2c83/artifacts
+end_time: 1711541116604
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ceb745f431844c5bb82c3b12de1f2c83
+run_name: burly-sheep-424
+run_uuid: ceb745f431844c5bb82c3b12de1f2c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711541109580
+status: 3
+tags: []
+user_id: mesude

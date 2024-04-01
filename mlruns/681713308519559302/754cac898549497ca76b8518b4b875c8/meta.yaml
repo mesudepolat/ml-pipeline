@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/754cac898549497ca76b8518b4b875c8/artifacts
+end_time: 1711712321760
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 754cac898549497ca76b8518b4b875c8
+run_name: thundering-conch-353
+run_uuid: 754cac898549497ca76b8518b4b875c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712307116
+status: 3
+tags: []
+user_id: mesude

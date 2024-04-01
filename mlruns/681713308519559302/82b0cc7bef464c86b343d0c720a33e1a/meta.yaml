@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/82b0cc7bef464c86b343d0c720a33e1a/artifacts
+end_time: 1711616450125
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 82b0cc7bef464c86b343d0c720a33e1a
+run_name: fearless-stoat-448
+run_uuid: 82b0cc7bef464c86b343d0c720a33e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616448929
+status: 3
+tags: []
+user_id: mesude

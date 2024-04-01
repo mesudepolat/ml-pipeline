@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e81ed0ac9aa84c17a2307bcca9310e20/artifacts
+end_time: 1711694187354
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e81ed0ac9aa84c17a2307bcca9310e20
+run_name: carefree-moth-627
+run_uuid: e81ed0ac9aa84c17a2307bcca9310e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711694174997
+status: 3
+tags: []
+user_id: mesude

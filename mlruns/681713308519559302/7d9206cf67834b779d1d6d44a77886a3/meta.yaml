@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7d9206cf67834b779d1d6d44a77886a3/artifacts
+end_time: 1711617334909
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7d9206cf67834b779d1d6d44a77886a3
+run_name: incongruous-fly-883
+run_uuid: 7d9206cf67834b779d1d6d44a77886a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617333666
+status: 3
+tags: []
+user_id: mesude

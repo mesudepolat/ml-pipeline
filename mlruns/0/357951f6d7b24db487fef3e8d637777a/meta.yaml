@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/357951f6d7b24db487fef3e8d637777a/artifacts
+end_time: 1711616405241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 357951f6d7b24db487fef3e8d637777a
+run_name: wistful-horse-988
+run_uuid: 357951f6d7b24db487fef3e8d637777a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616403633
+status: 3
+tags: []
+user_id: mesude

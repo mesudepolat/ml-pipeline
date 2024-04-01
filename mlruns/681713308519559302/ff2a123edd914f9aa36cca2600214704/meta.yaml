@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/ff2a123edd914f9aa36cca2600214704/artifacts
+end_time: 1711616678253
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: ff2a123edd914f9aa36cca2600214704
+run_name: nervous-sheep-372
+run_uuid: ff2a123edd914f9aa36cca2600214704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616677040
+status: 3
+tags: []
+user_id: mesude

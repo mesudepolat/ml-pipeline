@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/eacd1a6bca56454991b54c5017a14b01/artifacts
+end_time: 1711546989815
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: eacd1a6bca56454991b54c5017a14b01
+run_name: sedate-dolphin-276
+run_uuid: eacd1a6bca56454991b54c5017a14b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711546988604
+status: 3
+tags: []
+user_id: mesude

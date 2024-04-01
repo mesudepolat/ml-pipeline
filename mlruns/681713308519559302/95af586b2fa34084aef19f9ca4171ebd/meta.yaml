@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/95af586b2fa34084aef19f9ca4171ebd/artifacts
+end_time: 1711617178381
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 95af586b2fa34084aef19f9ca4171ebd
+run_name: bittersweet-bug-178
+run_uuid: 95af586b2fa34084aef19f9ca4171ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617177156
+status: 3
+tags: []
+user_id: mesude

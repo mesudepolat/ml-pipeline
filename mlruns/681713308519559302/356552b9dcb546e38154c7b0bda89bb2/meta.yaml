@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/356552b9dcb546e38154c7b0bda89bb2/artifacts
+end_time: 1711692615069
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 356552b9dcb546e38154c7b0bda89bb2
+run_name: rare-hog-387
+run_uuid: 356552b9dcb546e38154c7b0bda89bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692603340
+status: 3
+tags: []
+user_id: mesude

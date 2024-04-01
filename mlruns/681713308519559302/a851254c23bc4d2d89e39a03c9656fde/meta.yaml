@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a851254c23bc4d2d89e39a03c9656fde/artifacts
+end_time: 1711617306199
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a851254c23bc4d2d89e39a03c9656fde
+run_name: placid-crow-652
+run_uuid: a851254c23bc4d2d89e39a03c9656fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617304955
+status: 3
+tags: []
+user_id: mesude

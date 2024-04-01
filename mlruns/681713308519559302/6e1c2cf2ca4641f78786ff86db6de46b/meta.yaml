@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/6e1c2cf2ca4641f78786ff86db6de46b/artifacts
+end_time: 1711617437257
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 6e1c2cf2ca4641f78786ff86db6de46b
+run_name: indecisive-perch-264
+run_uuid: 6e1c2cf2ca4641f78786ff86db6de46b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617436006
+status: 3
+tags: []
+user_id: mesude

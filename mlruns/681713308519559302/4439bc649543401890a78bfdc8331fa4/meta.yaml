@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/4439bc649543401890a78bfdc8331fa4/artifacts
+end_time: 1711690713742
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 4439bc649543401890a78bfdc8331fa4
+run_name: lyrical-auk-499
+run_uuid: 4439bc649543401890a78bfdc8331fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690701854
+status: 3
+tags: []
+user_id: mesude

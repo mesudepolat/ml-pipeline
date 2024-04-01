@@ -1,0 +1,10 @@
+{
+  "loss": 0.7639514207839966,
+  "mean_squared_error": 0.7639514207839966,
+  "mean_absolute_error": 0.66908860206604,
+  "val_loss": 0.6220351457595825,
+  "val_mean_squared_error": 0.6220351457595825,
+  "val_mean_absolute_error": 0.6002251505851746,
+  "epoch": 48,
+  "global_step": 7350
+}

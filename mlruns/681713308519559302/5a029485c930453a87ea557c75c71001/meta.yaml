@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/5a029485c930453a87ea557c75c71001/artifacts
+end_time: 1711616718389
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 5a029485c930453a87ea557c75c71001
+run_name: traveling-auk-292
+run_uuid: 5a029485c930453a87ea557c75c71001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616717177
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e93108274e6c4b75947b9e6fbdae371c/artifacts
+end_time: 1711617023625
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e93108274e6c4b75947b9e6fbdae371c
+run_name: fearless-mare-536
+run_uuid: e93108274e6c4b75947b9e6fbdae371c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617022269
+status: 3
+tags: []
+user_id: mesude

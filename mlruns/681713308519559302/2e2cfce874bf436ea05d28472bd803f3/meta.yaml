@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2e2cfce874bf436ea05d28472bd803f3/artifacts
+end_time: 1711617591377
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2e2cfce874bf436ea05d28472bd803f3
+run_name: fearless-cow-273
+run_uuid: 2e2cfce874bf436ea05d28472bd803f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617590133
+status: 3
+tags: []
+user_id: mesude

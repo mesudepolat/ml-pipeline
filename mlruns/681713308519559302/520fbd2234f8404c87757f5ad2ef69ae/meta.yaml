@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/520fbd2234f8404c87757f5ad2ef69ae/artifacts
+end_time: 1711617563431
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 520fbd2234f8404c87757f5ad2ef69ae
+run_name: bright-dolphin-263
+run_uuid: 520fbd2234f8404c87757f5ad2ef69ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617562174
+status: 3
+tags: []
+user_id: mesude

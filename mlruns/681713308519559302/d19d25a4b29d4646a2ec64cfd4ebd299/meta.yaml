@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/d19d25a4b29d4646a2ec64cfd4ebd299/artifacts
+end_time: 1711692435331
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: d19d25a4b29d4646a2ec64cfd4ebd299
+run_name: gaudy-penguin-25
+run_uuid: d19d25a4b29d4646a2ec64cfd4ebd299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692423079
+status: 3
+tags: []
+user_id: mesude

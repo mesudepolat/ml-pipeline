@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e023e99a144f48c29e8788a88125c92b/artifacts
+end_time: 1711616610897
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e023e99a144f48c29e8788a88125c92b
+run_name: adorable-newt-883
+run_uuid: e023e99a144f48c29e8788a88125c92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616609696
+status: 3
+tags: []
+user_id: mesude

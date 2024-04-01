@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/02a5f5731f7840d79d72b6e1d6e3dbc4/artifacts
+end_time: 1711690942287
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 02a5f5731f7840d79d72b6e1d6e3dbc4
+run_name: worried-foal-435
+run_uuid: 02a5f5731f7840d79d72b6e1d6e3dbc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711690930743
+status: 3
+tags: []
+user_id: mesude

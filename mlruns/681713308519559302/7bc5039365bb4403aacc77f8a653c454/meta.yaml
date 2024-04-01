@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7bc5039365bb4403aacc77f8a653c454/artifacts
+end_time: 1711708245036
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7bc5039365bb4403aacc77f8a653c454
+run_name: rambunctious-ram-617
+run_uuid: 7bc5039365bb4403aacc77f8a653c454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711708226042
+status: 3
+tags: []
+user_id: mesude

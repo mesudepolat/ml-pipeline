@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/78eede1499d94a26ae43d4f8de1a8dee/artifacts
+end_time: 1711713354420
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 78eede1499d94a26ae43d4f8de1a8dee
+run_name: upbeat-hawk-782
+run_uuid: 78eede1499d94a26ae43d4f8de1a8dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711713341405
+status: 3
+tags: []
+user_id: mesude

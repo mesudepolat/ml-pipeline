@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4bd7d1ee87a542ce834e992c2e30de2e/artifacts
+end_time: 1711616349451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bd7d1ee87a542ce834e992c2e30de2e
+run_name: delightful-midge-173
+run_uuid: 4bd7d1ee87a542ce834e992c2e30de2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711616348101
+status: 3
+tags: []
+user_id: mesude

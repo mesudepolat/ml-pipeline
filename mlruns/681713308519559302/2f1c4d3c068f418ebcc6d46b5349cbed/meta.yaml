@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/2f1c4d3c068f418ebcc6d46b5349cbed/artifacts
+end_time: 1711617404247
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 2f1c4d3c068f418ebcc6d46b5349cbed
+run_name: crawling-bat-530
+run_uuid: 2f1c4d3c068f418ebcc6d46b5349cbed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617403025
+status: 3
+tags: []
+user_id: mesude

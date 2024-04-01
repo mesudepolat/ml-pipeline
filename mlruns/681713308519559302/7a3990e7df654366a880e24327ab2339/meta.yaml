@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/7a3990e7df654366a880e24327ab2339/artifacts
+end_time: 1711710856820
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 7a3990e7df654366a880e24327ab2339
+run_name: mercurial-cow-429
+run_uuid: 7a3990e7df654366a880e24327ab2339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710834073
+status: 3
+tags: []
+user_id: mesude

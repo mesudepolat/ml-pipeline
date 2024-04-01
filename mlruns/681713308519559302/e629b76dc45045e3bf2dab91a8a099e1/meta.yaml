@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/e629b76dc45045e3bf2dab91a8a099e1/artifacts
+end_time: 1711710322762
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: e629b76dc45045e3bf2dab91a8a099e1
+run_name: upbeat-croc-512
+run_uuid: e629b76dc45045e3bf2dab91a8a099e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711710302515
+status: 3
+tags: []
+user_id: mesude

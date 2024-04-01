@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/c8e8b7145dc44a3b9123664be43b3a1b/artifacts
+end_time: 1711712520783
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: c8e8b7145dc44a3b9123664be43b3a1b
+run_name: zealous-sloth-15
+run_uuid: c8e8b7145dc44a3b9123664be43b3a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711712500605
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/a9d40fbd5bc34ec3a3b2d4f765b22814/artifacts
+end_time: 1711691826372
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: a9d40fbd5bc34ec3a3b2d4f765b22814
+run_name: delightful-stag-342
+run_uuid: a9d40fbd5bc34ec3a3b2d4f765b22814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711691815137
+status: 3
+tags: []
+user_id: mesude

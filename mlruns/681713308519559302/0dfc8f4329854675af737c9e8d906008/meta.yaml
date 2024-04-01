@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/0dfc8f4329854675af737c9e8d906008/artifacts
+end_time: 1711617342814
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 0dfc8f4329854675af737c9e8d906008
+run_name: indecisive-wolf-15
+run_uuid: 0dfc8f4329854675af737c9e8d906008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617341542
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/848a305a291f41b6a1852744879d570f/artifacts
+end_time: 1711617392558
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 848a305a291f41b6a1852744879d570f
+run_name: rumbling-shrew-325
+run_uuid: 848a305a291f41b6a1852744879d570f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617391329
+status: 3
+tags: []
+user_id: mesude

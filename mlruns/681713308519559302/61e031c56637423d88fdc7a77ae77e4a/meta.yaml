@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/61e031c56637423d88fdc7a77ae77e4a/artifacts
+end_time: 1711692483453
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 61e031c56637423d88fdc7a77ae77e4a
+run_name: valuable-fox-696
+run_uuid: 61e031c56637423d88fdc7a77ae77e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692476784
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/9efa5cd4f87247ad8e8310f8fbaa5118/artifacts
+end_time: 1711709790724
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 9efa5cd4f87247ad8e8310f8fbaa5118
+run_name: beautiful-dog-554
+run_uuid: 9efa5cd4f87247ad8e8310f8fbaa5118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709770512
+status: 3
+tags: []
+user_id: mesude

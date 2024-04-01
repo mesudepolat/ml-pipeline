@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/15e6898f82244591910c3e301a8929ea/artifacts
+end_time: 1711617481087
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 15e6898f82244591910c3e301a8929ea
+run_name: bedecked-gull-712
+run_uuid: 15e6898f82244591910c3e301a8929ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711617479823
+status: 3
+tags: []
+user_id: mesude

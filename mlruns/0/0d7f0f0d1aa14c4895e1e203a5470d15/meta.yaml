@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d7f0f0d1aa14c4895e1e203a5470d15/artifacts
+end_time: 1711547068746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7f0f0d1aa14c4895e1e203a5470d15
+run_name: enthused-trout-526
+run_uuid: 0d7f0f0d1aa14c4895e1e203a5470d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711547067523
+status: 3
+tags: []
+user_id: mesude

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302/0c18ace108b94f56b7698d4620a22925/artifacts
+end_time: 1711692603150
+entry_point_name: ''
+experiment_id: '681713308519559302'
+lifecycle_stage: active
+run_id: 0c18ace108b94f56b7698d4620a22925
+run_name: fearless-dove-549
+run_uuid: 0c18ace108b94f56b7698d4620a22925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711692594141
+status: 3
+tags: []
+user_id: mesude
