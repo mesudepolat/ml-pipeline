@@ -1,6 +1,0 @@
-artifact_location: file:///Users/mesude/cookiecutter-data-science/fmendes/mlruns/681713308519559302
-creation_time: 1711529815446
-experiment_id: '681713308519559302'
-last_update_time: 1711529815446
-lifecycle_stage: active
-name: calories_NN_models

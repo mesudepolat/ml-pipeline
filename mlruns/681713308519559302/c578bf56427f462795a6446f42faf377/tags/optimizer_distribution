@@ -1,1 +1,0 @@
-CategoricalDistribution(choices=('adam', 'sgd', 'rmsprop'))
